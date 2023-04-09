@@ -1,0 +1,5 @@
+data/2019-Nov.csv
+*.pdf
+*.duckdb
+*.duckdb.wal
+venv/
