@@ -39,7 +39,6 @@ It will upload data to the local DuckDB database, which will be created automati
 - Python libraries:
     - Data Wrangling: `numpy`, `pandas`
     - Data Visualization: `seaborn`, `plotly`
-    - `lifelines` used to find key factors, that influence User Retention
     - `pip-tools` for human-readable pinning of dependencies.
 - Jupyter Notebook for interactive analysis.
     -  [JupySQL](https://github.com/ploomber/jupysql) plugin for SQL queries
