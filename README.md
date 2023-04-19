@@ -1,5 +1,9 @@
 # User Activity Analysis
 
+Analysis of customer behavior base on statistics from online shop site (public datased from Kaggle).
+
+Dataset: [eCommerce behavior data from multi category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
 Requirements: [requirements.in](requirements.in)
 
 ## How to set up the data
